@@ -1,0 +1,11 @@
+# Build outputs
+out/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+
+# make.fun local
+.makefun/
+node_modules/
